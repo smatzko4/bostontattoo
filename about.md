@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-testImage: foo
+test-image: 
 layout: page
 ---
 
@@ -15,4 +15,4 @@ You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
 
-<img src="{{ page['testImage'] }}" />
+<img src="{{ page['test-image'] }}" />
