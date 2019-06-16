@@ -1,0 +1,221 @@
+
+html, body {
+  height: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+a {
+  color: inherit;
+  outline: none;
+}
+
+#mainImage {
+  height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  position: relative;
+}
+
+header {
+  width: 100%;
+  padding: 15px 20px 12px 20px;
+  box-sizing: border-box;
+  position: sticky;
+  top: 0px;
+  display: flex;
+  background-color: rgba(100, 100, 100, .2);
+  margin-bottom: 45px;
+  color: rgb(230, 230, 230);
+  font-size: 12px;
+  letter-spacing: 1px;
+  z-index: 2;
+}
+
+header.visible a {
+  display: inline-block;
+}
+
+header #logo {
+  width: 150px;
+  flex-shrink: 0;
+  align-self: center;
+  margin: 0px 20px;
+}
+
+header a, #showLinks {
+  padding: 16px 20px;
+  cursor: pointer;
+  transition: color 300ms;
+  text-decoration: none;
+  color: inherit;
+}
+
+header a {
+  display: block;
+  padding: 16px;
+  align-self: center;
+}
+
+header a:hover {
+  color: rgb(255, 255, 255);
+}
+
+#pageName {
+  font-size: 60px;
+  color: rgba(255, 255, 255, .5);
+  letter-spacing: 8px;
+  position: absolute;
+  top: 48%;
+  width: 100%;
+  text-align: center;
+}
+
+@media all and (max-width: 1200px) {
+  header {
+    background-color: rgb(20, 20, 20);
+    position: relative;
+    width: auto;
+    flex-wrap: wrap;
+    margin-bottom: 0px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+
+  header a {
+    padding: 8px;
+    display: block;
+  }
+
+  header #logoContainer {
+    width: 100%;
+  }
+
+  #mainImage {
+    height: auto !important;
+  }
+
+  #pageName {
+    display: none;
+  }
+}
+
+
+#downArrow {
+  transform: rotate(45deg);
+  border: solid rgba(255, 255, 255, .6);
+  border-width: 0 3px 3px 0;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 40px;
+  bottom: 70px;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 300ms;
+}
+
+#downArrow:hover {
+  border-color: rgba(255, 255, 255, 1);
+}
+
+@media all and (max-width: 1200px) {
+  #downArrow {
+    display: none;
+  }
+}
+
+#locations {
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: rgb(245, 245, 245);
+  box-sizing: border-box;
+  display: flex;
+  padding: 0px 40px;
+  background-color: rgba(130, 130, 130, .15);
+  justify-content: center;
+  position: absolute;
+  bottom: 0px;
+}
+
+#locations a {
+  margin: 14px 70px;
+  letter-spacing: 3px;
+  transition: color 300ms;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+}
+
+#locations a:hover {
+  color: rgb(255, 255, 255, 1);
+}
+
+@media all and (max-width: 1200px) {
+  #locations {
+    display: block;
+    position: relative;
+    padding: 6px 0px;
+    text-align: left;
+  }
+
+  #locations a {
+    padding: 10px;
+    display: block;
+    margin: 14px 26px;
+  }
+}
+
+#info-container {
+  background-color: rgba(240, 240, 240, 1);
+  padding: 30px 40px;
+  position: relative;
+}
+
+.info {
+  color: #333;
+  max-width: 700px;
+  margin: 0px auto;
+  box-sizing: border-box;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 25px;
+
+}
+
+.info h2 {
+  font-size: 24px;
+  letter-spacing: 2px;
+  margin: 30px 0px;
+}
+
+.info h4 {
+  margin-bottom: 0px;
+}
+
+.info  p {
+  display: inline-block;
+}
+
+footer {
+  background-color: rgba(30, 30, 30, 1);
+  display: flex;
+  justify-content: center;
+}
+
+footer span {
+  font-size: 12px;
+  color: #ddd;
+  padding: 40px;
+  letter-spacing: 1px;
+  line-height: 22px;
+}
