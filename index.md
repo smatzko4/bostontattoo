@@ -1,6 +1,7 @@
 ---
 title: Home
 permalink: "/"
+main_image: "/uploads/home.jpg"
 layout: home
 ---
 
