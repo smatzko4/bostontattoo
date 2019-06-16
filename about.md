@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-testImage: foo
+test-image: foo
 layout: page
 ---
 
