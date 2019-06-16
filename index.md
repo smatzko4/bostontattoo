@@ -2,7 +2,7 @@
 title: Home
 permalink: "/"
 main_image: "/uploads/home.jpg"
-page_name: ""
+page_name: ''
 layout: page
 ---
 
