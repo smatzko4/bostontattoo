@@ -16,56 +16,7 @@ a {
   outline: none;
 }
 
-@media all and (max-width: 1200px) {
-  header {
-    background-color: rgb(20, 20, 20);
-    position: relative;
-    width: auto;
-    flex-wrap: wrap;
-    margin-bottom: 0px;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-  }
-
-  header a {
-    padding: 8px;
-    display: block;
-  }
-
-  header #logoContainer {
-    width: 100%;
-  }
-
-  #mainImage {
-    height: auto !important;
-  }
-
-  #pageName {
-    display: none;
-  }
-}
-
-@media all and (max-width: 1200px) {
-  #downArrow {
-    display: none;
-  }
-}
-
-@media all and (max-width: 1200px) {
-  #locations {
-    display: block;
-    position: relative;
-    padding: 6px 0px;
-    text-align: left;
-  }
-
-  #locations a {
-    padding: 10px;
-    display: block;
-    margin: 14px 26px;
-  }
-}
+/* ---------------------------------------------- */
 
 #info-container {
   background-color: rgba(240, 240, 240, 1);
@@ -81,7 +32,6 @@ a {
   font-size: 14px;
   letter-spacing: 1px;
   line-height: 25px;
-
 }
 
 .info h1 {
@@ -96,18 +46,4 @@ a {
 
 .info  p {
   display: inline-block;
-}
-
-footer {
-  background-color: rgba(30, 30, 30, 1);
-  display: flex;
-  justify-content: center;
-}
-
-footer span {
-  font-size: 12px;
-  color: #ddd;
-  padding: 40px;
-  letter-spacing: 1px;
-  line-height: 22px;
 }
