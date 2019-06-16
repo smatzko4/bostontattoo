@@ -1,0 +1,105 @@
+
+#mainImage {
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  position: relative;
+}
+
+#pageName {
+  font-size: 60px;
+  color: rgba(255, 255, 255, .5);
+  letter-spacing: 8px;
+  position: absolute;
+  top: 48%;
+  width: 100%;
+  text-align: center;
+}
+
+/* ---------------------------------------------- */
+
+header {
+  background-color: rgba(100, 100, 100, .2);
+  box-sizing: border-box;
+  color: rgb(230, 230, 230);
+  display: flex;
+  font-size: 12px;
+  letter-spacing: 1px;
+  margin-bottom: 45px;
+  padding: 15px 20px 12px 20px;
+  position: sticky;
+  top: 0px;
+  width: 100%;
+  z-index: 2;
+}
+
+header #logo {
+  width: 150px;
+  flex-shrink: 0;
+  align-self: center;
+  margin: 0px 20px;
+}
+
+header a {
+  padding: 16px 20px;
+  cursor: pointer;
+  transition: color 300ms;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  align-self: center;
+}
+
+header a:hover {
+  color: rgb(255, 255, 255);
+}
+
+/* ---------------------------------------------- */
+
+#locations {
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: rgb(245, 245, 245);
+  box-sizing: border-box;
+  display: flex;
+  padding: 0px 40px;
+  background-color: rgba(130, 130, 130, .15);
+  justify-content: center;
+  position: absolute;
+  bottom: 0px;
+}
+
+#locations a {
+  margin: 14px 70px;
+  letter-spacing: 3px;
+  transition: color 300ms;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+}
+
+#locations a:hover {
+  color: rgb(255, 255, 255, 1);
+}
+
+/* ---------------------------------------------- */
+
+#downArrow {
+  transform: rotate(45deg);
+  border: solid rgba(255, 255, 255, .6);
+  border-width: 0 3px 3px 0;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 40px;
+  bottom: 70px;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 300ms;
+}
+
+#downArrow:hover {
+  border-color: rgba(255, 255, 255, 1);
+}
