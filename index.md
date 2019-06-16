@@ -2,10 +2,11 @@
 title: Home
 permalink: "/"
 main_image: "/uploads/home.jpg"
-layout: home
+page_name: ""
+layout: page
 ---
 
-## New England’s Premier Tattoo Studio
+# New England’s Premier Tattoo Studio
 
 Established in December, 2004, the Boston Tattoo Company is the Boston area’s most respected studio. We have been recognized by numerous Greater-Boston publications; such as The Phoenix, Somerville Scout, and Reader’s Choice, as the best tattoo & body piercing studio!
 
@@ -21,10 +22,12 @@ More Info:
 - Fully licensed and insured.
 - Cash & all major credit cards accepted (sorry, no checks or money orders)
 
-SOCIAL:
-Instagram
-Facebook
-Pinterest
-LINKS:
-The Finery
-O’Reilly House
+SOCIAL:\\
+[Instagram](https://www.instagram.com/bostontattoocompany)\\
+[Facebook](https://www.facebook.com/bostontattoocompany)\\
+[Pinterest](https://www.pinterest.com/source/thebostontattoocompany.com)\\
+\\
+LINKS:\\
+[The Finery](https://thefinery.net/location/medford-ma-tattoo-removal)\\
+[O’Reilly House](http://oreillyhouse.com)
+
