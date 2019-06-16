@@ -2,7 +2,7 @@
 title: Home
 permalink: "/"
 main_image: "/uploads/home.jpg"
-page_name: ''
+page_name: 
 layout: page
 ---
 
@@ -15,19 +15,23 @@ Located just minutes north of downtown Boston, we offer the largest selection of
 We have thousands of designs to choose from and draw custom designs upon request!
 More Info:
 
-- We are open seven days a week.
-- Walk-ins always welcome (subject to availability)
-- Proper id required
-- Consultations are free
-- Fully licensed and insured.
-- Cash & all major credit cards accepted (sorry, no checks or money orders)
+* We are open seven days a week.
 
-SOCIAL:\\
-[Instagram](https://www.instagram.com/bostontattoocompany)\\
-[Facebook](https://www.facebook.com/bostontattoocompany)\\
-[Pinterest](https://www.pinterest.com/source/thebostontattoocompany.com)\\
-\\
-LINKS:\\
-[The Finery](https://thefinery.net/location/medford-ma-tattoo-removal)\\
+* Walk-ins always welcome (subject to availability)
+
+* Proper id required
+
+* Consultations are free
+
+* Fully licensed and insured.
+
+* Cash & all major credit cards accepted (sorry, no checks or money orders)
+
+SOCIAL:
+[Instagram](https://www.instagram.com/bostontattoocompany)
+[Facebook](https://www.facebook.com/bostontattoocompany)
+[Pinterest](https://www.pinterest.com/source/thebostontattoocompany.com)
+
+LINKS:
+[The Finery](https://thefinery.net/location/medford-ma-tattoo-removal)
 [O’Reilly House](http://oreillyhouse.com)
-
