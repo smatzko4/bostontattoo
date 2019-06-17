@@ -1,0 +1,22 @@
+
+.artist {
+    display: inline-block;
+    margin: 4px 0px;
+}
+
+.artist div {
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    border: 2px solid #ccc;
+}
+
+.artist span {
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
+
+.artist span h4 {
+    margin-top: 0px;
+}
