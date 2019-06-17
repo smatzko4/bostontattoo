@@ -2,15 +2,8 @@
 layout: page
 ---
 
+<link rel="stylesheet" href="{{ '/css/profile.css' | prepend: site.baseurl }}">
+
 <div id="profile"><img src="{{ page['profile_image'] }}"></div>
 
 {{ content }}
-
-<iframe
-  width = "400"
-  height = "300"
-  frameborder = "0"
-  style = "border: 1px solid #ccc; margin-top: 10px;"
-  src = "{{ page['map_url'] }}"
-  allowfullscreen
-></iframe> 

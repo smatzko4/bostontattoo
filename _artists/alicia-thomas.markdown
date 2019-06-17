@@ -1,5 +1,5 @@
 ---
-title: ALICIA THOMAS
+title: Alicia Thomas
 date: 2019-06-17 00:36:00 Z
 categories:
 - somerville
