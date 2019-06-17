@@ -1,7 +1,22 @@
 
+{% if page.page_name != "" %}
+  <style type="text/css">
+    @media all and (min-width: 950px) {
+      #mainImage {
+        height: 70%;
+      }
+
+      #pageName {
+        top: 32%;
+        margin-top: -100px;
+      }
+    }
+  </style>
+{% endif %}
+
 <div id="mainImage" style="background-image: url({{ page['main_image'] }});">
   <header>
-
+    <div id="headerRow">
     <div id="logoContainer">
       <a href="index.html" style="padding: 0px;">
         <img src="uploads/logo.png" id="logo">
@@ -15,7 +30,7 @@
     <a href="faq.html">FAQ</a>
     <a href="contact.html">CONTACT</a>
     <a href="apply.html">APPLY</a>
-    <a href="index.html/#social">SOCIAL</a>
+    <a href="index.html/#social">SOCIAL</a></div>
   </header>
 
   <div id="pageName">{{ page.page_name }}</div>
