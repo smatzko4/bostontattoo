@@ -1,5 +1,5 @@
 
-{% if page.page_name != "" %}
+{% if page.title != "Home" %}
   <style type="text/css">
     @media all and (min-width: 950px) {
       #mainImage {
@@ -12,13 +12,19 @@
       }
     }
   </style>
+{% else %}
+  <style type="text/css">
+      #pageName {
+        display: none;
+      }
+  </style>
 {% endif %}
 
 <div id="mainImage" style="background-image: url({{ page['main_image'] }});">
   <header>
     <div id="headerRow">
     <div id="logoContainer">
-      <a href="index.html" style="padding: 0px;">
+      <a href="/index.html" style="padding: 0px;">
         <img src="/uploads/logo.png" id="logo">
       </a>
     </div>
@@ -33,7 +39,7 @@
     <a href="/#social">SOCIAL</a></div>
   </header>
 
-  <div id="pageName">{{ page.page_name }}</div>
+  <div id="pageName">{{ page.title | upcase }}</div>
 
   <div id="locations" class="noMobile">
     <a href="/medford.html">Medford</a>

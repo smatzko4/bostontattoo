@@ -25,3 +25,11 @@ url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
+defaults:
+  - 
+    scope:
+     type: "artists"
+    values:
+      main_image: ""
+      profile_image: ""
+      layout: profile

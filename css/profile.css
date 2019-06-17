@@ -1,0 +1,27 @@
+
+#profile {
+    position: relative;
+    margin: 20px;
+}
+
+#profile img {
+    margin: 0px auto;
+    max-height: 400px;
+    max-width: 100%;
+    display: block;
+}
+
+#work-container {
+    background-color: rgb(20, 20, 20);
+}
+
+.work {
+    margin: 0px auto;
+    max-width: 600px;
+}
+
+.work img {
+    margin: 30px auto;
+    max-width: 100%;
+}
+

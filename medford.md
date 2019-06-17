@@ -2,7 +2,6 @@
 title: Medford
 permalink: "/medford.html"
 main_image: "/uploads/medford.jpg"
-page_name: MEDFORD
 map_url: https://www.google.com/maps/embed/v1/place?q=567%20Fellsway%20Medford%2C%20MA%2002155%20(781)%20393-8282&key=AIzaSyByok5-JLiYZzpwESlPJ7kcTqJeu4aT1TY
 layout: location
 ---
