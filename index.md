@@ -22,12 +22,14 @@ More Info:
 - Fully licensed and insured.
 - Cash & all major credit cards accepted (sorry, no checks or money orders)
 
-SOCIAL:\\
+
+
+#### SOCIAL:
 [Instagram](https://www.instagram.com/bostontattoocompany)\\
 [Facebook](https://www.facebook.com/bostontattoocompany)\\
-[Pinterest](https://www.pinterest.com/source/thebostontattoocompany.com)\\
-\\
-LINKS:\\
+[Pinterest](https://www.pinterest.com/source/thebostontattoocompany.com)
+
+#### LINKS:
 [The Finery](https://thefinery.net/location/medford-ma-tattoo-removal)\\
 [O’Reilly House](http://oreillyhouse.com)
 
