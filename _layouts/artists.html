@@ -2,6 +2,40 @@
 layout: page
 ---
 
-{% for artist in site.artists | where: 'category', 'somerville' %}
-  {{ artist.title }}
+<link rel="stylesheet" href="{{ '/css/artists.css' | prepend: site.baseurl }}">
+
+<h3>Medford</h3>
+
+{% for artist in site.artists %}
+  {% for category in artist.categories %}
+    {% assign lowered = category | downcase %}
+    {% if lowered == "medford" %}
+      {{ artist.title }}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<h3>Somerville</h3>
+
+{% for artist in site.artists %}
+  {% for category in artist.categories %}
+    {% assign lowered = category | downcase %}
+    {% if lowered == "somerville" %}
+      <a href="{{ artist.url }}"><div class="artist">
+          <div style="background-image: url('{{ artist.profile_image }}');"></div>
+          <span>{{ artist.title }}</span>
+      </div></a>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<h3>Cambridge</h3>
+
+{% for artist in site.artists %}
+  {% for category in artist.categories %}
+    {% assign lowered = category | downcase %}
+    {% if lowered == "cambridge" %}
+      {{ artist.title }}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
