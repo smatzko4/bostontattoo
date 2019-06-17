@@ -5,6 +5,9 @@ collections:
   artists:
     title: Artists
     output: true
+  piercers:
+    title: Piercers
+    output: true
   posts:
     title: Posts
     output: true
