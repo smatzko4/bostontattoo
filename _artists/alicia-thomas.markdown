@@ -5,6 +5,15 @@ categories:
 - somerville
 main_image: "/uploads/header.jpg"
 profile_image: "/uploads/profile.jpg"
+work_images:
+- "/uploads/1.jpg"
+- "/uploads/2.jpg"
+- "/uploads/3.jpg"
+- "/uploads/4.jpg"
+- "/uploads/5.jpg"
+- "/uploads/6.jpg"
+- "/uploads/7.jpg"
+- "/uploads/8.jpg"
 layout: profile
 ---
 
