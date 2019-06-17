@@ -1,6 +1,7 @@
 ---
 title: Artists
 permalink: "/artists.html"
-main_image: "/uploads/home.jpg"
+main_image: "/uploads/artists.jpg"
 layout: artists
 ---
+
