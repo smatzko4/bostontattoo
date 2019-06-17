@@ -1,11 +1,7 @@
 ---
-title: Artists
-permalink: "/artists.html"
-main_image: "/uploads/home.jpg"
 layout: page
 ---
 
 {% for artist in site.artists | where: 'category', 'somerville' %}
   {{ artist.title }}
 {% endfor %}
-
