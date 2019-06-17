@@ -1,17 +1,9 @@
 
-#info-container {
-  background-color: rgb(20, 20, 20);
-}
-
-.info {
-  color: #ccc;
-}
-
 #profile {
   position: relative;
   display: inline-block;
   padding: 5px;  
-  background-color: #ddd;
+  background-color: #ccc;
   margin: 20px 0px;
 }
 
@@ -28,11 +20,13 @@
 
 .work {
   margin: 0px auto;
-  max-width: 600px;
+  max-width: 700px;
 }
 
 .work img {
-  margin: 30px auto;
+  margin: 30px 0px;
   max-width: 100%;
+  padding: 5px;  
+  background-color: #222;
 }
 

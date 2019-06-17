@@ -13,3 +13,11 @@ layout: default
   </article>
 </div>
 
+<div id="work-container">
+  <div class="work">
+    {% for im in page.work_images %}
+      <img src="{{ im }}" alt="">
+    {% endfor %}
+  </div>
+</div>
+
