@@ -1,9 +1,15 @@
 ---
-layout: page
+layout: default
 ---
 
 <link rel="stylesheet" href="{{ '/css/profile.css' | prepend: site.baseurl }}">
 
-<div id="profile"><img src="{{ page['profile_image'] }}"></div>
+<div id="info-container">
+  <article class="info">
+    <div id="profile"><img src="{{ page['profile_image'] }}"></div>
 
-{{ content }}
+    {{ content }}
+
+  </article>
+</div>
+

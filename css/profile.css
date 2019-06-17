@@ -1,27 +1,38 @@
 
+#info-container {
+  background-color: rgb(20, 20, 20);
+}
+
+.info {
+  color: #ccc;
+}
+
 #profile {
-    position: relative;
-    margin: 20px;
+  position: relative;
+  display: inline-block;
+  padding: 5px;  
+  background-color: #ddd;
+  margin: 20px 0px;
 }
 
 #profile img {
-    margin: 0px auto;
-    max-height: 400px;
-    max-width: 100%;
-    display: block;
+  margin: 0px auto;
+  max-height: 400px;
+  max-width: 100%;
+  display: block;
 }
 
 #work-container {
-    background-color: rgb(20, 20, 20);
+  background-color: rgb(20, 20, 20);
 }
 
 .work {
-    margin: 0px auto;
-    max-width: 600px;
+  margin: 0px auto;
+  max-width: 600px;
 }
 
 .work img {
-    margin: 30px auto;
-    max-width: 100%;
+  margin: 30px auto;
+  max-width: 100%;
 }
 
