@@ -3,17 +3,17 @@ title: Alicia Thomas
 date: 2019-06-17 00:36:00 Z
 categories:
 - somerville
-main_image: "/uploads/header.jpg"
-profile_image: "/uploads/profile.jpg"
+main_image: "/uploads/aliciaHeader.jpg"
+profile_image: "/uploads/aliciaProfile.jpg"
 work_images:
-- "/uploads/1.jpg"
-- "/uploads/2.jpg"
-- "/uploads/3.jpg"
-- "/uploads/4.jpg"
-- "/uploads/5.jpg"
-- "/uploads/6.jpg"
-- "/uploads/7.jpg"
-- "/uploads/8.jpg"
+- "/uploads/alicia1.jpg"
+- "/uploads/alicia2.jpg"
+- "/uploads/alicia3.jpg"
+- "/uploads/alicia4.jpg"
+- "/uploads/alicia5.jpg"
+- "/uploads/alicia6.jpg"
+- "/uploads/alicia7.jpg"
+- "/uploads/alicia8.jpg"
 layout: profile
 ---
 
