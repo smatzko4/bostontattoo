@@ -12,3 +12,4 @@ layout: page
 ![intrinsic_jewelry.png](http://intrinsicbody.com/)
 ![leroi_jewelry.jpg](http://leroi.com/)
 ![nemetal_jewelry.png](http://www.neometal.com/)
+![leroi_jewelry.jpg](/uploads/leroi_jewelry.jpg)
