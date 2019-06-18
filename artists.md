@@ -1,7 +1,7 @@
 ---
-title: Piercers
-permalink: "/piercers.html"
-main_image: "/uploads/piercers.jpg"
+title: Artists
+permalink: "/artists.html"
+main_image: "/uploads/artists.jpg"
 layout: artists
 ---
 
