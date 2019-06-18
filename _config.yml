@@ -21,7 +21,7 @@ defaults:
   values:
     main_image: ''
     profile_image: ''
-    work_images:
+    work_images: 
     layout: profile
 - scope:
     path: ''
@@ -29,7 +29,7 @@ defaults:
   values:
     main_image: ''
     profile_image: ''
-    work_images:
+    work_images: 
     layout: profile
 email: your-email@domain.com
 description: 'Write an awesome description for your new site here. You can edit this
