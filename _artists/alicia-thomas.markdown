@@ -5,6 +5,8 @@ categories:
 - somerville
 tags:
 - tattoo
+- foo
+- bar
 main_image: "/uploads/aliciaHeader.jpg"
 profile_image: "/uploads/aliciaProfile.jpg"
 work_images:
