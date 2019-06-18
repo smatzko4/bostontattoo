@@ -3,6 +3,8 @@ title: Alicia Thomas
 date: 2019-06-17 00:36:00 Z
 categories:
 - somerville
+tags:
+- tattoo
 main_image: "/uploads/aliciaHeader.jpg"
 profile_image: "/uploads/aliciaProfile.jpg"
 work_images:
