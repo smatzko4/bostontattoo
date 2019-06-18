@@ -10,6 +10,13 @@ layout: default
 
     {{ content }}
 
+    <div id="tags">
+      <h3>Work Themes:</h3>
+      {% for tag in page.tags %}
+        <span>{{ tag }}, </span>
+      {% endfor %}
+    </div>
+
   </article>
 </div>
 

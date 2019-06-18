@@ -1,0 +1,41 @@
+---
+layout: page
+---
+
+<link rel="stylesheet" href="{{ '/css/artists.css' | prepend: site.baseurl }}">
+
+<h3>Medford</h3>
+
+{% for piercer in site.piercers %}
+  {% for category in piercer.categories %}
+    {% assign lowered = category | downcase %}
+    {% if lowered == "medford" %}
+      {{ piercer.title }}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<h3>Somerville</h3>
+
+{% for piercer in site.piercers %}
+  {% for category in piercer.categories %}
+    {% assign lowered = category | downcase %}
+    {% if lowered == "somerville" %}
+      <a href="{{ piercer.url }}"><div class="artist">
+          <div style="background-image: url('{{ piercer.profile_image }}');"></div>
+          <span>{{ piercer.title }}</span>
+      </div></a>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<h3>Cambridge</h3>
+
+{% for piercer in site.piercers %}
+  {% for category in piercer.categories %}
+    {% assign lowered = category | downcase %}
+    {% if lowered == "cambridge" %}
+      {{ piercer.title }}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
