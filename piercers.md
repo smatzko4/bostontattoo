@@ -1,7 +1,7 @@
 ---
 title: Piercers
 permalink: "/piercers.html"
-main_image: "/uploads/piercers.jpg"
+main_image: "/uploads/piercing.jpg"
 layout: piercers
 ---
 
