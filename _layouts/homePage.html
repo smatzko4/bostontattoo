@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div id="info-container">
+  <article class="info">
+    {% unless page.video_file == "" %}
+      <div id="videoContainer">
+        <video controls>
+          <source src="{{ page.video_file }}" type="video/mp4">
+        </video>
+      </div>
+    {% endunless %}
+    
+    {{ content }}
+  </article>
+</div>
+

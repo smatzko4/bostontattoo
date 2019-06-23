@@ -118,6 +118,21 @@ header a:hover {
 
 /* ---------------------------------------------- */
 
+video {
+  display: block;
+  margin: 0px auto;
+  width: 100%;
+  outline: none;
+}
+
+#videoContainer {
+  margin: 20px 0px 50px 0px;
+  padding: 4px;
+  background-color: #111;
+}
+
+/* ---------------------------------------------- */
+
 @media all and (max-width: 950px) {
   header {
     background-color: rgb(20, 20, 20);
