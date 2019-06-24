@@ -127,8 +127,7 @@ video {
 
 #videoContainer {
   margin: 20px 0px 50px 0px;
-  padding: 4px;
-  background-color: #111;
+  border: 2px solid #111;
 }
 
 /* ---------------------------------------------- */
