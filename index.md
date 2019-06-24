@@ -2,8 +2,8 @@
 title: Home
 permalink: "/"
 main_image: "/uploads/home.jpg"
-layout: homePage
 video_file: "/uploads/showreel.mp4"
+layout: homePage
 ---
 
 # New England’s Premier Tattoo Studio
