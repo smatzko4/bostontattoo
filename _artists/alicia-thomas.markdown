@@ -22,5 +22,4 @@ I'm a tattooist working out of The Boston Tattoo Company in Somerville, MA and P
 I consider myself extremely lucky- I am surrounded by amazing artists and find myself learning something new everyday. I'm constantly creating, learning, and always working on becoming a more well rounded visual artist.  
   
 Instagram: aliciathomas_art  
-[www.aliciasprintsandstuff.com](http://www.aliciasprintsandstuff.com)  
-[http://www.precisionbodyarts.com](http://www.precisionbodyarts.com)  
+[www.aliciasprintsandstuff.com](http://www.aliciasprintsandstuff.com) 
