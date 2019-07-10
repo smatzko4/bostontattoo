@@ -4,15 +4,21 @@ layout: default
 
 <div id="info-container">
   <article class="info">
+    {{ content }}
+
+    {% unless page.announcement_image == "" %}
+      <h3 id="announcements">Announcements:</h3>
+      <img src="{{ page.announcement_image }}" style="max-width: 100%; margin-top: 20px;">
+    {% endunless %}
+
     {% unless page.video_file == "" %}
+      <h3 id="video">Intro Video:</h3>
       <div id="videoContainer">
         <video controls>
           <source src="{{ page.video_file }}" type="video/mp4">
         </video>
       </div>
     {% endunless %}
-    
-    {{ content }}
   </article>
 </div>
 

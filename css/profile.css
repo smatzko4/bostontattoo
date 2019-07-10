@@ -23,6 +23,11 @@
   padding: 30px 0px;
 }
 
+.work div {
+  color: #ddd;
+  font-size: 20px;
+}
+
 .work img {
   margin: 30px auto;
   display: block;
