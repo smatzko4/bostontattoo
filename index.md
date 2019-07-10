@@ -9,6 +9,7 @@ layout: homePage
 
 # New England’s Premier Tattoo Studio
 
+**[New announcements](#announcements)**
 **[Watch our intro video!](#video)**
 
 Established in December, 2004, the Boston Tattoo Company is the Boston area’s most respected studio. We have been recognized by numerous Greater-Boston publications; such as The Phoenix, Somerville Scout, and Reader’s Choice, as the best tattoo & body piercing studio!
