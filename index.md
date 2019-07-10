@@ -2,7 +2,7 @@
 title: Home
 permalink: "/"
 main_image: "/uploads/home.jpg"
-announcement_image: "/uploads/alicia8.jpg"
+announcement_image: 
 video_file: "/uploads/showreel.mp4"
 layout: homePage
 ---
