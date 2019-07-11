@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<style type="text/css">
+  #info-container {
+    background-color: #000;
+  }
+  .merch-item {
+    max-width: 100%;
+    margin: 10px;
+  }
+</style>
+
+<div id="info-container">
+  <article class="info">
+    {% for im in page.merch_images %}
+      <img class="merch-item" src="{{ im }}" alt="">
+    {% endfor %}
+  </article>
+</div>
