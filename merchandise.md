@@ -11,6 +11,6 @@ merch_images:
 - "/uploads/hockeyhoodietv.jpg"
 - "/uploads/T-shirttv.jpg"
 - "/uploads/baseballcaptv.jpg"
-layout: page
+layout: merchandise
 ---
 
