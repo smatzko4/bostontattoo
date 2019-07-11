@@ -1,7 +1,7 @@
 ---
 title: Merchandise
 permalink: "/merchandise.html"
-main_image: "/uploads/merchandise.jpg"
+main_image: "/uploads/btc%20group.jpg"
 background_color: "#111111"
 merch_images:
 - "/uploads/tanktop(longlogo).jpg"
