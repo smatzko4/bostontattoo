@@ -6,15 +6,15 @@ categories:
 main_image: ""
 profile_image: ""
 work_images:
-- "color skull tattoo boston skull art newschool tattoo aaryn.jpg"
-- "color tattoo neo trad tattoo leg tattoo bostontattoo aaryn.jpg"
-- "custom lettering tattoo bostontattoo aaryn lettering blackandgray.jpg"
-- "darktattoo spiritual tattoo blackandgrey aaryn.jpg"
-- "Nautical color tattoo bostontattoo aaryn.jpg"
-- "neotraditional skulltattoo colortatt aaryn.jpg"
-- "skater tattoo color tattoo newschool bostontattoo aaryn.jpg"
-- "skatertattoo neotrad tattoo lettering tattoo aaryn bostontattoo.jpg"
-- "stomachtattoo blackandgray bostontattoo aaryn.jpg"
+- "/uploads/color skull tattoo boston skull art newschool tattoo aaryn.jpg"
+- "/uploads/color tattoo neo trad tattoo leg tattoo bostontattoo aaryn.jpg"
+- "/uploads/custom lettering tattoo bostontattoo aaryn lettering blackandgray.jpg"
+- "/uploads/darktattoo spiritual tattoo blackandgrey aaryn.jpg"
+- "/uploads/Nautical color tattoo bostontattoo aaryn.jpg"
+- "/uploads/neotraditional skulltattoo colortatt aaryn.jpg"
+- "/uploads/skater tattoo color tattoo newschool bostontattoo aaryn.jpg"
+- "/uploads/skatertattoo neotrad tattoo lettering tattoo aaryn bostontattoo.jpg"
+- "/uploads/stomachtattoo blackandgray bostontattoo aaryn.jpg"
 layout: profile
 ---
 
