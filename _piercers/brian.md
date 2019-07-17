@@ -14,7 +14,8 @@ work_images:
 - "/uploads/labretpiercing goldflower bostontattoocompany.jpg"
 - "/uploads/nostril .jpg"
 - "/uploads/rosegoldearrings bostonpiercing goldchain conchpiercing.jpg"
-- "/uploads/solidgoldbatbvla lobepiercings cartilagepiercings bostontattoocompany solidgoldearrings.jpg"
+- "/uploads/solidgoldbatbvla lobepiercings cartilagepiercings bostontattoocompany
+  solidgoldearrings.jpg"
 - "/uploads/solidgoldearrings 14kt bostontattoocompany earpiercings.jpg"
 - "/uploads/whiteopalheart goldearrings bostonpiercers cartilagepiercingsboston.jpg"
 layout: profile
