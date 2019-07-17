@@ -10,7 +10,10 @@ layout: page
   {% for category in artist.categories %}
     {% assign lowered = category | downcase %}
     {% if lowered == "medford" %}
-      {{ artist.title }}
+      <a href="{{ artist.url }}"><div class="artist">
+        <div style="background-image: url('{{ artist.profile_image }}');"></div>
+        <span>{{ artist.title }}</span>
+      </div></a>
     {% endif %}
   {% endfor %}
 {% endfor %}
@@ -35,7 +38,10 @@ layout: page
   {% for category in artist.categories %}
     {% assign lowered = category | downcase %}
     {% if lowered == "cambridge" %}
-      {{ artist.title }}
+      <a href="{{ artist.url }}"><div class="artist">
+        <div style="background-image: url('{{ artist.profile_image }}');"></div>
+        <span>{{ artist.title }}</span>
+      </div></a>
     {% endif %}
   {% endfor %}
 {% endfor %}

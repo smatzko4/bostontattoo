@@ -18,8 +18,8 @@ layout: default
     {% for im in page.work_images %}
       <a href="{{ im }}">
         <div>{{ im | remove: "/uploads/" | remove: ".jpg" }}</div>
+          <img src="{{ im }}" alt="">
       </a>
-      <img src="{{ im }}" alt="">
     {% endfor %}
   </div>
 </div>
