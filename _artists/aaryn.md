@@ -3,8 +3,8 @@ title: Aaryn
 date: 2019-06-17 00:36:00 Z
 categories:
 - somerville
-main_image: ""
-profile_image: ""
+main_image: ''
+profile_image: ''
 work_images:
 - "/uploads/color skull tattoo boston skull art newschool tattoo aaryn.jpg"
 - "/uploads/color tattoo neo trad tattoo leg tattoo bostontattoo aaryn.jpg"
