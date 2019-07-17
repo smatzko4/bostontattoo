@@ -4,7 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - somerville
 main_image: "/uploads/ALICIATHOMAS.jpg"
-profile_image: "/uploads/aliciaProfile.jpg"
+profile_image: "/uploads/test.jpeg"
 work_images:
 - "/uploads/astronaut tattoos spacetattoo bostontattoo blackandgrey.jpg"
 - "/uploads/blackandgrey bostontattoo alicia realism darkart.jpg"
@@ -16,11 +16,13 @@ work_images:
 - "/uploads/boston tattoo colortattoo mountaintattoo landscapetattoo alicia bostontattoo.jpg"
 - "/uploads/brontasaurus tattoo dinosaur bostontattoo colortattoo alicia.jpg"
 - "/uploads/clevergirl jurrasicparktattoo bostontattoocompany alicia.jpg"
-- "/uploads/color tattoo traditional tattoos battattoo halloweentattoo bostontattoo alicia.jpg"
+- "/uploads/color tattoo traditional tattoos battattoo halloweentattoo bostontattoo
+  alicia.jpg"
 - "/uploads/cowskull black and greytattoo geometric tattoos.jpg"
 - "/uploads/cow skull tattoo color tattoos skull tattoo alicia.jpg"
 - "/uploads/crab tattoo colorful tattoos bostontattoocompany alicia.jpg"
-- "/uploads/crow skull tattoo blackandgreytattoos flower tattoos colorful bostontattoo alicia.jpg"
+- "/uploads/crow skull tattoo blackandgreytattoos flower tattoos colorful bostontattoo
+  alicia.jpg"
 - "/uploads/dotwork blacktattoos bostontattoo tattoos flowertattoo neotrad.jpg"
 - "/uploads/fishandflowertattoo colr tattoo traditionaltattoos boston tattoo.jpg"
 - "/uploads/floraltattoos blackandgrey bostontattoo.jpg"
