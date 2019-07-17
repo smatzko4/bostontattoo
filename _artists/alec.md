@@ -6,7 +6,8 @@ categories:
 main_image: ''
 profile_image: ''
 work_images:
-- "/uploads/bear tattoo boston bruin tattoo american tattoos color tattoos boston tattoo company.jpg"
+- "/uploads/bear tattoo boston bruin tattoo american tattoos color tattoos boston
+  tattoo company.jpg"
 - "/uploads/boston tattoo newschool tattoo black and grey tattoo.jpg"
 - "/uploads/color tattoo traditional tattoo bostontattoo hand tattoos.JPG"
 - "/uploads/dagger tattoo american traditional tattoo.jpg"
@@ -18,3 +19,4 @@ work_images:
 - "/uploads/traditional tattoo black and grey flower tattoo flower sleeve boston tattoo.jpg"
 layout: profile
 ---
+
