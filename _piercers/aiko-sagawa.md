@@ -4,7 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - medford
 main_image: ''
-profile_image: '/uploads/aiko-sagawa.jpg'
+profile_image: "/uploads/aiko-sagawa.jpg"
 work_images:
 - "/uploads/forwardheliswithwhitesaphire.jpg"
 - "/uploads/forwardhelixwithbeadedwhitegoldtriangles.JPG"
