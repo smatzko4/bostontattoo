@@ -34,6 +34,5 @@ More Info:
 [Pinterest](https://www.pinterest.com/source/thebostontattoocompany.com)
 
 #### LINKS:
-[The Finery](https://thefinery.net/location/medford-ma-tattoo-removal)\\
-[O’Reilly House](http://oreillyhouse.com)
+[The Finery](https://thefinery.net/location/medford-ma-tattoo-removal)
 
