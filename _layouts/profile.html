@@ -6,10 +6,8 @@ layout: default
 
 <div id="info-container">
   <article class="info">
-    <div id="profile"><img src="{{ page['profile_image'] }}"></div>
-
+    <img id="smallImage" src="{{ page['main_image'] }}">
     {{ content }}
-
   </article>
 </div>
 
@@ -17,7 +15,7 @@ layout: default
   <div class="work">
     {% for im in page.work_images %}
       <a href="{{ im }}">
-        <div>{{ im | remove: "/uploads/" | remove: ".jpg" }}</div>
+        <span style="display: none;">{{ im | remove: "/uploads/" | remove: ".jpg" }}</span>
           <img src="{{ im }}" alt="">
       </a>
     {% endfor %}

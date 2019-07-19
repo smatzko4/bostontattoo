@@ -6,13 +6,34 @@ layout: default
   <article class="info">
     {{ content }}
 
+    <hr style="margin: 40px 0px; border: 2px solid #ccc;">
+
+    <h2 id="social" class="mediaHeader">Social:</h2>
+    <div id="widget">
+      <!-- LightWidget WIDGET -->
+      <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+      <iframe src="//lightwidget.com/widgets/3c3b9e0ed6d45b52beb18e38d87bb612.html"
+        scrolling="no" allowtransparency="true" class="lightwidget-widget"
+        style="width:100%;border:0;overflow:hidden;">
+      </iframe>
+    </div>
+
+
+    <div style="text-align: center;">
+      <strong>also: </strong>
+
+      <a href="https://www.facebook.com/bostontattoocompany">Facebook</a>,
+      <a href="https://www.pinterest.com/source/thebostontattoocompany.com">Pinterest</a>,
+      <a href="https://thefinery.net/location/medford-ma-tattoo-removal">The Finery</a>
+    </div>
+
     {% unless page.announcement_image == "" %}
-      <h3 id="announcements">Announcements:</h3>
-      <img src="{{ page.announcement_image }}" style="max-width: 100%; margin-top: 20px;">
+      <h2 id="announcements" class="mediaHeader">Announcements:</h2>
+      <img src="{{ page.announcement_image }}" id="announceImage">
     {% endunless %}
 
     {% unless page.video_file == "" %}
-      <h3 id="video">Intro Video:</h3>
+      <h2 id="video" class="mediaHeader">Intro Video:</h2>
       <div id="videoContainer">
         <video controls>
           <source src="{{ page.video_file }}" type="video/mp4">

@@ -46,3 +46,36 @@ a {
 .info  p {
   display: inline-block;
 }
+
+/* ---------------------------------------------- */
+
+.mediaHeader {
+  text-align: center;
+  margin: 40px 0px 20px 0px;
+  color: #444;
+}
+
+#widget {
+  max-width: 500px;
+  margin: 0px auto;
+}
+
+#announceImage {
+  max-width: 500px;
+  margin: 20px auto auto auto;
+  display: block;
+  width: 100%;
+}
+
+video {
+  display: block;
+  margin: 0px auto;
+  outline: none;
+  width: 100%;
+}
+
+#videoContainer {
+  margin: 0px auto 20px auto;
+  border: 2px solid #111;
+  max-width: 500px;
+}
