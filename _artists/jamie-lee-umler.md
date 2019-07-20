@@ -13,7 +13,9 @@ work_images:
 - "/uploads/blackandgreytattoo bostontattoo realism jamie.JPG"
 - "/uploads/bostontattoo colortattoo realism jamie.JPG"
 - "/uploads/clocktattoo blackandgrey bostontattoo realism jamie.jpg"
-- "/uploads/letteringtattoo backpiece customtattoo blackandgrey bostontattoo realism jamie .jpg"
+- "/uploads/letteringtattoo backpiece customtattoo blackandgrey bostontattoo realism
+  jamie .jpg"
 - "/uploads/pineappletattoo colortattoo bostontattoo realism jamie.jpg"
 layout: profile
 ---
+
