@@ -3,7 +3,7 @@ title: Alicia Thomas
 date: 2019-06-17 00:36:00 Z
 categories:
 - somerville
-main_image: "/uploads/ALICIATHOMAS.jpg"
+main_image: "/uploads/aliciathomas.jpg"
 work_images:
 - "/uploads/astronaut tattoos spacetattoo bostontattoo blackandgrey.jpg"
 - "/uploads/blackandgrey bostontattoo alicia realism darkart.jpg"
