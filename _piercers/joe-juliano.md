@@ -3,8 +3,8 @@ title: Joe Juliano
 date: 2019-06-17 00:36:00 Z
 categories:
 - somerville
-main_image: '/uploads/joejuliano.jpg'
-profile_image: ""
+main_image: "/uploads/joejuliano.jpg"
+profile_image: ''
 work_images:
 - "/uploads/Gold and London Blue Topaz.JPG"
 - "/uploads/Gold Flower.JPG"

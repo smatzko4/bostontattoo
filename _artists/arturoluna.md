@@ -3,8 +3,8 @@ title: Arturo Luna
 date: 2019-06-17 00:36:00 Z
 categories:
 - cambridge
-main_image: '/uploads/arturoluna.jpg'
-profile_image: ""
+main_image: "/uploads/arturoluna.jpg"
+profile_image: ''
 work_images:
 - "/uploads/blackworktattoo fullsleeve bostontattoo.jpeg"
 - "/uploads/bostontattoocompany rosetattoo blacktattoo.jpeg"
@@ -18,5 +18,4 @@ work_images:
 - "/uploads/sleevetattoo geometrictattooing blackandgreytattoo bostontattoo.jpeg"
 layout: profile
 ---
-
 
