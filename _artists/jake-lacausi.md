@@ -3,6 +3,7 @@ title: Jake Lacausi
 date: 2019-06-17 00:36:00 Z
 categories:
 - somerville
+position: 11
 main_image: "/uploads/jakelacausi.jpg"
 profile_image: "/uploads/jake.png"
 work_images:

@@ -3,6 +3,7 @@ title: Sam Chacon
 date: 2019-06-17 00:36:00 Z
 categories:
 - medford
+position: 25
 main_image: "/uploads/samchaconguest.jpg"
 profile_image: "/uploads/sam.png"
 work_images:

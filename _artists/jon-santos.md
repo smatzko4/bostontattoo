@@ -3,6 +3,7 @@ title: Jon Santos
 date: 2019-06-17 00:36:00 Z
 categories:
 - medford
+position: 16
 main_image: "/uploads/jonsantos.jpg"
 profile_image: "/uploads/jon.png"
 work_images:

@@ -3,6 +3,7 @@ title: Kit Marlow
 date: 2019-06-17 00:36:00 Z
 categories:
 - cambridge
+position: 18
 main_image: "/uploads/kitmarlow.jpg"
 profile_image: "/uploads/kit.png"
 work_images:

@@ -3,6 +3,7 @@ title: Jamie Lee Umler
 date: 2019-06-17 00:36:00 Z
 categories:
 - somerville
+position: 12
 main_image: "/uploads/jamieleeulmer.jpg"
 profile_image: "/uploads/jamielee.png"
 work_images:

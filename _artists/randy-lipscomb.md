@@ -3,6 +3,7 @@ title: Randy Lipscomb
 date: 2019-06-17 00:36:00 Z
 categories:
 - cambridge
+position: 23
 main_image: "/uploads/randylipscomb.jpg"
 profile_image: "/uploads/randy.png"
 work_images:

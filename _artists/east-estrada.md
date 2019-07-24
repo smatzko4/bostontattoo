@@ -3,6 +3,7 @@ title: East Estrada
 date: 2019-06-17 00:36:00 Z
 categories:
 - medford
+position: 8
 main_image: "/uploads/eastestrada.jpg"
 profile_image: "/uploads/east.png"
 work_images:
