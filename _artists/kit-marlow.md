@@ -4,6 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - cambridge
 main_image: "/uploads/kitmarlow.jpg"
+profile_image: "/uploads/kit.png"
 work_images:
 - "/uploads/armtattoo boston blackandgrey kit.jpeg"
 - "/uploads/armtattoo squidtatoo bostontattoo kit blackandgray.jpeg"
