@@ -4,6 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - medford
 main_image: "/uploads/joshhaganguest.jpg"
+profile_image: "/uploads/josh.png"
 work_images:
 - "/uploads/blackandgrey skulltattoo bostontattoo realism josh.jpg"
 - "/uploads/bostontattoocompany chestpiece blackandgreyrealism josh.JPG"
