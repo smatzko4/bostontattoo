@@ -4,6 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - cambridge
 main_image: "/uploads/jimmysnaz.jpg"
+profile_image: "/uploads/jimmy.png"
 work_images:
 - "/uploads/americantraditonaltattoo bostontattoo inkmaster.jpeg"
 - "/uploads/chesttattoos eagletattoo american traditional.jpeg"
