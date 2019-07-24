@@ -4,6 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - medford
 main_image: "/uploads/rozthompson.jpg"
+profile_image: "/uploads/roz.png"
 work_images:
 - "/uploads/bostontattoocompany dinosaurtattoo linetattoo roz.jpg"
 - "/uploads/bostontattoocompanyribcagetattoo colrflowertattoo roz.jpg"
