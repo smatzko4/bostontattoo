@@ -4,6 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - medford
 main_image: "/uploads/gracelamorteguest.jpg"
+profile_image: "/uploads/grace.png"
 work_images:
 - "/uploads/ameericantraditionaltattoos bostontattoocompany.JPG"
 - "/uploads/americantraditionaltatoo peppertattoo bostontattoo.JPG"
