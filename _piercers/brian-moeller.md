@@ -4,7 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - somerville
 main_image: "/uploads/brianmoeller.jpg"
-profile_image: ''
+profile_image: "/uploads/brian.png"
 work_images:
 - "/uploads/14ktgold cartilagepiercing bostontattoocompany bvla.jpg"
 - "/uploads/14ktgoldearrings cartilagepiercings bostonpiercings bvla.jpg"
