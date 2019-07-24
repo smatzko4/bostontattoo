@@ -4,7 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - cambridge
 main_image: "/uploads/arturoluna.jpg"
-profile_image: ''
+profile_image: "/uploads/arturo.png"
 work_images:
 - "/uploads/blackworktattoo fullsleeve bostontattoo.jpeg"
 - "/uploads/bostontattoocompany rosetattoo blacktattoo.jpeg"
