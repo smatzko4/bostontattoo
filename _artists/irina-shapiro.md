@@ -4,6 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - cambridge
 main_image: "/uploads/irinashapiro.jpg"
+profile_image: "/uploads/irina.png"
 work_images:
 - "/uploads/blackandgray bostontattoo cattattoo irina.jpeg"
 - "/uploads/blackandgreytattoo bostontattoocompany irina.jpg"
