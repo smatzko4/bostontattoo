@@ -3,6 +3,7 @@ title: Arturo Luna
 date: 2019-06-17 00:36:00 Z
 categories:
 - cambridge
+position: 6
 main_image: "/uploads/arturoluna.jpg"
 profile_image: "/uploads/arturo.png"
 work_images:

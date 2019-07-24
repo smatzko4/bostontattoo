@@ -3,6 +3,7 @@ title: Sarah Kensley
 date: 2019-06-17 00:36:00 Z
 categories:
 - cambridge
+position: 26
 main_image: "/uploads/sarahkensley.jpg"
 profile_image: "/uploads/sarah.png"
 work_images:

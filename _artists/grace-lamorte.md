@@ -3,6 +3,7 @@ title: Grace Lamorte
 date: 2019-06-17 00:36:00 Z
 categories:
 - medford
+position: 9
 main_image: "/uploads/gracelamorteguest.jpg"
 profile_image: "/uploads/grace.png"
 work_images:
