@@ -4,6 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - cambridge
 main_image: "/uploads/peteterranova.jpg"
+profile_image: "/uploads/pete.png"
 work_images:
 - "/uploads/backpiece bostontattoo blackandgrey.jpg"
 - "/uploads/backtattoo skulltattoos grimreapertattoo blackandgrey.jpg"
