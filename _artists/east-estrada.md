@@ -4,6 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - medford
 main_image: "/uploads/eastestrada.jpg"
+profile_image: "/uploads/east.png"
 work_images:
 - "/uploads/abstracttattoo boston blacktattoo east.JPG"
 - "/uploads/animetatoo bostontattoo colortattoo east.JPG"
