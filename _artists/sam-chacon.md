@@ -4,6 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - medford
 main_image: "/uploads/samchaconguest.jpg"
+profile_image: "/uploads/sam.png"
 work_images:
 - "/uploads/blackandgray realism samchacon bostontattoo 10.jpg"
 - "/uploads/blackandgray realism samchacon bostontattoo 11.jpg"
