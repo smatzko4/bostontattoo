@@ -4,6 +4,7 @@ date: 2019-06-17 00:36:00 Z
 categories:
 - medford
 main_image: "/uploads/jonsantos.jpg"
+profile_image: "/uploads/jon.png"
 work_images:
 - "/uploads/americantraditionaltattoo bostontattoocompany jon.jpg"
 - "/uploads/americantradtattoo blackpanther bostontattoo jon.jpg"
