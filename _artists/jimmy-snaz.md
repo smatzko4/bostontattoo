@@ -20,3 +20,4 @@ work_images:
 layout: profile
 ---
 
+Jimmy Snaz has been tattooing in the Greater Boston area since 2007. He is well versed in all tattoo styles; but has a passion for black and grey realism, traditional, and neo-traditional. Jimmy originally got into tattooing because of his love for graffiti art. Check out his recent artwork in the gallery to the right. To book Jimmy, click here.

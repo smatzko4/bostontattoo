@@ -20,3 +20,4 @@ work_images:
 layout: profile
 ---
 
+Nick Bratkon started as an apprentice at our Davis Square location and has since become an impressive tattoo artist in his own right. Check out his Instagram @nicholasjamestattoo for more images of his work!

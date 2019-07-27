@@ -20,3 +20,4 @@ work_images:
 layout: profile
 ---
 
+Tattooer, artist, metalhead, inspiration junkie.

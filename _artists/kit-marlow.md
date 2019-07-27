@@ -20,3 +20,4 @@ work_images:
 layout: profile
 ---
 
+Kit has been an artist since a very young age. He continues to grow and hone his skills to this day in many different variables including his development in tattooing. His quick grasp and execution of black and grey especially has been amazing. While finding new and creative ways to express his dark style he continues to amaze people with his creations.
