@@ -20,3 +20,4 @@ work_images:
 layout: profile
 ---
 
+Sarah loves designs inspired by vintage illustrations, in color or black and gray traditional, but is always open to new styles! Sarah is from Cambridge, MA, where she lives after spending ten years in Italy. She started tattooing in Italy in 2017 and made it back to Boston Tattoo Company to finish her training. She's influenced by punk rock, loud music and vintage graphics as well as timeless, classic traditional imagery. 
