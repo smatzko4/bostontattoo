@@ -20,3 +20,4 @@ work_images:
 layout: profile
 ---
 
+East Estrada started tattooing in 2011, and continues to challenge himself in all styles of tattooing. He is most versed in script lettering, new school color, and black and gray. he is ready and able to tackle any project that comes his way; he’s got a soft spot for watercolor. He will take any idea you have and work his absolute best to put something custom on you to enjoy for the rest of your life.

@@ -21,3 +21,4 @@ work_images:
 layout: profile
 ---
 
+JamieLee Ulmer is from a long line of guest artists to visit our studio from Arizona. Like Josh, Carl & Jinx before her, she is a resident tattooer working out of Sacred Art Tattoo in Tucson. JamieLee’s tattooing style is quite broad as you can see below. She enjoys doing both color and black & gray in realistic, semi-realistic and nu-school styles. A very gifted artist, you can expect a very cool twist on the idea you present to her for your next tattoo!

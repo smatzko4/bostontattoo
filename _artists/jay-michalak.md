@@ -20,3 +20,4 @@ work_images:
 layout: profile
 ---
 
+Jay Michalak is an award-winning artist specializing in black and gray realism and portraiture. He can be found on Instagram @jay_michalak_tattoos and on his website www.jaymichalak.com for booking info and availability.

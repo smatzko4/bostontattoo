@@ -20,3 +20,4 @@ work_images:
 layout: profile
 ---
 
+Dani Williams works at the Boston Tattoo location in Somerville, MA. She enjoys doing traditional, illustrative, and dotwork tattoos; but she’s always open to other styles. For booking information, please contact daniwilliamstattoo@yahoo.com

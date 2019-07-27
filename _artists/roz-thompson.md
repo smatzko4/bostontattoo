@@ -20,3 +20,4 @@ work_images:
 layout: profile
 ---
 
+Roz Thompson is influenced by comic books, science, manga, nature, and martial arts. She can be reached for booking info and availability via her instagram @rozthompson_tattoo.
