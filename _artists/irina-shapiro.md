@@ -10,7 +10,6 @@ work_images:
 - "/uploads/blackandgray bostontattoo cattattoo irina.jpeg"
 - "/uploads/blackandgreytattoo bostontattoocompany irina.jpg"
 - "/uploads/blackandgreytattoos statuetattoo bostontattoo irina.jpg"
-- "/uploads/bostontattoo traditionaltattoos colortattoos irina.jpg"
 - "/uploads/charliebrowntattoo blackandgray cartoontattoo bostontattoo irina.png"
 - "/uploads/hockeytattoo blackandgreytattoo bostontattoo irina.jpg"
 - "/uploads/mermaidtattoo bostontattoo irina blackwork blackandgray.JPG"
