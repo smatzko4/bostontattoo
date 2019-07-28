@@ -4,7 +4,7 @@ layout: page
 
 <link rel="stylesheet" href="{{ '/css/artists.css' | prepend: site.baseurl }}">
 
-<h3>Medford</h3>
+<div class="subsection">Medford</div>
 
 {% assign sorted_artists = site.artists | sort:"order" | reverse %}
 
@@ -20,7 +20,7 @@ layout: page
   {% endfor %}
 {% endfor %}
 
-<h3>Somerville</h3>
+<div class="subsection">Somerville</div>
 
 {% for artist in sorted_artists %}
   {% for category in artist.categories %}
@@ -34,7 +34,7 @@ layout: page
   {% endfor %}
 {% endfor %}
 
-<h3>Cambridge</h3>
+<div class="subsection">Cambridge</div>
 
 {% for artist in sorted_artists %}
   {% for category in artist.categories %}
