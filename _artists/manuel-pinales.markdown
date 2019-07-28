@@ -6,6 +6,6 @@ categories:
 position: 0
 main_image: "/uploads/manny.jpg"
 profile_image: "/uploads/manny-17960f.jpg"
-order: 10
+order: 2
 ---
 
