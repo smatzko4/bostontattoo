@@ -6,7 +6,9 @@ layout: page
 
 <h3>Medford</h3>
 
-{% for artist in site.artists %}
+{% assign sorted_artists = site.artists | sort:"order" | reverse %}
+
+{% for artist in sorted_artists %}
   {% for category in artist.categories %}
     {% assign lowered = category | downcase %}
     {% if lowered == "medford" %}
@@ -20,7 +22,7 @@ layout: page
 
 <h3>Somerville</h3>
 
-{% for artist in site.artists %}
+{% for artist in sorted_artists %}
   {% for category in artist.categories %}
     {% assign lowered = category | downcase %}
     {% if lowered == "somerville" %}
@@ -34,7 +36,7 @@ layout: page
 
 <h3>Cambridge</h3>
 
-{% for artist in site.artists %}
+{% for artist in sorted_artists %}
   {% for category in artist.categories %}
     {% assign lowered = category | downcase %}
     {% if lowered == "cambridge" %}
