@@ -6,7 +6,7 @@ layout: page
 
 <div class="subsection">Medford</div>
 
-{% assign sorted_artists = site.artists | sort:"meta.order" | reverse %}
+{% assign sorted_artists = site.artists | sort:"order" %}
 
 {% for artist in sorted_artists %}
   {% for category in artist.categories %}
