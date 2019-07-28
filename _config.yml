@@ -21,7 +21,7 @@ defaults:
   values:
     main_image: ''
     profile_image: ''
-    order: "01"
+    order: '01'
     work_images: 
     layout: profile
 - scope:
@@ -30,7 +30,7 @@ defaults:
   values:
     main_image: ''
     profile_image: ''
-    order: "01"
+    order: '01'
     work_images: 
     layout: profile
 email: your-email@domain.com
