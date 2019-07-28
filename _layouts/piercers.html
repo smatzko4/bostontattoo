@@ -7,7 +7,6 @@ layout: page
 {% assign sorted_piercers = site.piercers | sort:"order" %}
 {% for piercer in sorted_piercers %}
   <a href="{{ piercer.url }}"><div class="artist">
-    {{ piercer.order }}
     <div style="background-image: url('{{ piercer.profile_image }}');"></div>
     <span>{{ piercer.title }}</span>
   </div></a>
