@@ -4,6 +4,8 @@ layout: page
 
 <link rel="stylesheet" href="{{ '/css/artists.css' | prepend: site.baseurl }}">
 
+<br>
+
 {% assign sorted_piercers = site.piercers | sort:"order" %}
 {% for piercer in sorted_piercers %}
   <a href="{{ piercer.url }}"><div class="artist">

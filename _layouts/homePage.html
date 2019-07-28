@@ -4,11 +4,22 @@ layout: default
 
 <div id="info-container">
   <article class="info">
+
+  <h1 style="text-align: center;">New England’s Premier Tattoo Studio</h1>
+
+    {% unless page.video_file == "" %}
+      <div id="videoContainer">
+        <video poster="/uploads/btcVidThumbnail.png" controls>
+          <source src="{{ page.video_file }}" type="video/mp4">
+        </video>
+      </div>
+    {% endunless %}
+
     {{ content }}
 
     <hr style="margin: 40px 0px; border: 2px solid #ccc;">
 
-    <h2 id="social" class="mediaHeader">Social:</h2>
+    <h2 id="social" class="mediaHeader">Instagram:</h2>
     <div id="widget">
       <!-- LightWidget WIDGET -->
       <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
@@ -21,21 +32,12 @@ layout: default
 
       <a href="https://www.facebook.com/bostontattoocompany">Facebook</a>,
       <a href="https://www.pinterest.com/source/thebostontattoocompany.com">Pinterest</a>,
-      <a href="https://thefinery.net/location/medford-ma-tattoo-removal">The Finery</a>
+      <a href="http://oreillyhouse.com/">O'Reilly House</a>
     </div>
 
     {% unless page.announcement_image == "" %}
       <h2 id="announcements" class="mediaHeader">Announcements:</h2>
       <img src="{{ page.announcement_image }}" id="announceImage">
-    {% endunless %}
-
-    {% unless page.video_file == "" %}
-      <h2 id="video" class="mediaHeader">Intro Video:</h2>
-      <div id="videoContainer">
-        <video controls>
-          <source src="{{ page.video_file }}" type="video/mp4">
-        </video>
-      </div>
     {% endunless %}
   </article>
 </div>
