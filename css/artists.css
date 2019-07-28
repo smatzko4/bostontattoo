@@ -24,3 +24,9 @@
 .artist span h4 {
     margin-top: 0px;
 }
+
+.subsection {
+  font-size: 24px;
+  color: #444;
+  margin: 30px;
+}
