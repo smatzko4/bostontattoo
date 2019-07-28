@@ -6,7 +6,6 @@ categories:
 position: 24
 main_image: "/uploads/rozthompson.jpg"
 profile_image: "/uploads/roz.png"
-order: 0
 work_images:
 - "/uploads/bostontattoocompany dinosaurtattoo linetattoo roz.jpg"
 - "/uploads/bostontattoocompanyribcagetattoo colrflowertattoo roz.jpg"
