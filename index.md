@@ -2,7 +2,7 @@
 title: Home
 permalink: "/"
 main_image: "/uploads/home.jpg"
-Field name: xkcd.com
+consultation_url: xkcd.com
 announcement_image: "/uploads/Postcard_gal.jpg"
 video_file: "/uploads/showreel.mp4"
 layout: homePage
