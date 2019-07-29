@@ -1,5 +1,5 @@
 ---
-title: Home
+title: "Boston Tattoo Company" 
 permalink: "/"
 main_image: "/uploads/home.jpg"
 announcement_image: "/uploads/Postcard_gal.jpg"
