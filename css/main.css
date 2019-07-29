@@ -50,7 +50,7 @@ a {
 /* ---------------------------------------------- */
 
 #consultation {
-  background-color: #fa6;
+  background-color: #ffa466;
   margin: 30px auto 20px auto;
   padding: 10px;
   border-radius: 3px;
@@ -65,7 +65,7 @@ a {
 }
 
 #consultation:hover {
-  background-color: #f95;
+  background-color: #ff9050;
 }
 
 .mediaHeader {
