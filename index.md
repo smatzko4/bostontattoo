@@ -2,6 +2,7 @@
 title: Home
 permalink: "/"
 main_image: "/uploads/home.jpg"
+Field name: 
 announcement_image: "/uploads/Postcard_gal.jpg"
 video_file: "/uploads/showreel.mp4"
 layout: homePage
