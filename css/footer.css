@@ -14,6 +14,14 @@ footer span {
   line-height: 22px;
 }
 
+#medford {
+  text-align: center;
+}
+
+#cambridge {
+  text-align: right;
+}
+
 /* ---------------------------------------------- */
 
 @media all and (max-width: 800px) {
@@ -22,5 +30,6 @@ footer span {
   }
   footer span {
     display: block;
+    text-align: left !important;
   }
 }
