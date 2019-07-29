@@ -5,7 +5,7 @@ layout: default
 <div id="info-container">
   <article class="info">
 
-  <h1 style="text-align: center;">New England’s Premier Tattoo Studio</h1>
+    <h1 style="text-align: center;">New England’s Premier Tattoo Studio</h1>
 
     {% unless page.video_file == "" %}
       <div id="videoContainer">
@@ -17,7 +17,9 @@ layout: default
 
     {{ content }}
 
-    <hr style="margin: 40px 0px; border: 2px solid #ccc;">
+    <a href="{{ page.consultation_url }}" id="consultation">
+      ➜ consultation form
+    </a>
 
     <h2 id="social" class="mediaHeader">Instagram:</h2>
     <div id="widget">

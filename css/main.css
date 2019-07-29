@@ -49,6 +49,25 @@ a {
 
 /* ---------------------------------------------- */
 
+#consultation {
+  background-color: #fa6;
+  margin: 30px auto 20px auto;
+  padding: 10px;
+  border-radius: 3px;
+  text-decoration: none;
+  display: block;
+  font-weight: bold;
+  max-width: 300px;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  transition: background-color 200ms linear;
+}
+
+#consultation:hover {
+  background-color: #f95;
+}
+
 .mediaHeader {
   text-align: center;
   margin: 40px 0px 20px 0px;
