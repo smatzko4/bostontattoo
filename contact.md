@@ -2,7 +2,7 @@
 title: Contact
 permalink: "/contact.html"
 main_image: "/uploads/contact.jpg"
-form_url: https://form.jotform.com/jsform/90423210135138
+form_url: https://form.jotform.com/jsform/92096907092161
 layout: form_page
 ---
 
