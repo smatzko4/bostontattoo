@@ -12,7 +12,7 @@
   width: 12rem;
   height: 12rem;
   background-size: cover;
-  border: 1px solid #ddd;
+  border: .1rem solid #aaa;
 }
 
 .artist span {
