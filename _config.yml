@@ -40,7 +40,7 @@ description: Established in December, 2004, the Boston Tattoo Company is the Bos
   best tattoo & body piercing studio!
 baseurl: 
 url: http://yourdomain.com
-consultation_url: http://xkcd.com
+consultation_url: https://form.jotform.com/90310530416140
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
