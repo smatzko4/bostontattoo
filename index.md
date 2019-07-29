@@ -2,7 +2,6 @@
 title: Home
 permalink: "/"
 main_image: "/uploads/home.jpg"
-consultation_url: http://xkcd.como
 announcement_image: "/uploads/Postcard_gal.jpg"
 video_file: "/uploads/showreel.mp4"
 Field name: 
