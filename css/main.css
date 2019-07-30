@@ -21,6 +21,7 @@ a {
 #info-container {
   padding: 30px 40px;
   position: relative;
+  background-color: #fff;
 }
 
 .info {
@@ -51,7 +52,7 @@ a {
 
 #consultation {
   background-color: #ffa466;
-  margin: 30px auto 20px auto;
+  margin: 20px auto 40px auto;
   padding: 10px;
   border-radius: 3px;
   text-decoration: none;
