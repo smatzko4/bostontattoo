@@ -1,7 +1,6 @@
 ---
-title: "Boston Tattoo Company: Release" 
-page_name: "title": Tattoo Company: Somerville" 
-Tattoo" Company: Somerville" 
+title: "Boston Tattoo Company: Somerville"
+page_name: "Somerville" 
 permalink: "/somerville.html"
 main_image: "/uploads/somerville.jpg"
 map_url: https://www.google.com/maps/embed/v1/place?q=260%20Elm%20Street%2C%20%23102%20Somerville%2C%20MA%2002144&key=AIzaSyByok5-JLiYZzpwESlPJ7kcTqJeu4aT1TY
