@@ -1,7 +1,7 @@
 ---
-title: "Boston Tattoo Company: FAQ"
-page_name: "FAQ"
+title: 'Boston Tattoo Company: FAQ'
 permalink: "/faq.html"
+page_name: FAQ
 main_image: "/uploads/faq.jpg"
 layout: page
 ---

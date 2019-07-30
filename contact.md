@@ -1,7 +1,7 @@
 ---
-title: "Boston Tattoo Company: Contact"
-page_name: "Contact"
+title: 'Boston Tattoo Company: Contact'
 permalink: "/contact.html"
+page_name: Contact
 main_image: "/uploads/contact.jpg"
 form_url: https://form.jotform.com/jsform/92096907092161
 layout: form_page
