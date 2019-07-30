@@ -1,5 +1,5 @@
 ---
-title: "Boston Tattoo Company: Merchandise"
+title: "Merchandise"
 page_name: "Merchandise"
 permalink: "/merchandise.html"
 main_image: "/uploads/btc%20group.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Boston Tattoo Company: Medford"
+title: "Medford"
 page_name: "Medford"
 permalink: "/medford.html"
 main_image: "/uploads/medford%20shop%20header.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Boston Tattoo Company: Cambridge"
+title: "Cambridge"
 page_name: "Cambridge"
 permalink: "/cambridge.html"
 main_image: "/uploads/cambridge.jpg"

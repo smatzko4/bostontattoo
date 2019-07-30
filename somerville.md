@@ -1,5 +1,5 @@
 ---
-title: "Boston Tattoo Company: Somerville"
+title: "Somerville"
 page_name: "Somerville" 
 permalink: "/somerville.html"
 main_image: "/uploads/somerville.jpg"
