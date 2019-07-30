@@ -2,6 +2,7 @@
 title: "Release"
 page_name: "Release"
 permalink: "/release.html"
+page_name: Release
 layout: release
 ---
 

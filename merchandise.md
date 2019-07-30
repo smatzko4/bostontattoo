@@ -2,6 +2,7 @@
 title: "Merchandise"
 page_name: "Merchandise"
 permalink: "/merchandise.html"
+page_name: Merchandise
 main_image: "/uploads/btc%20group.jpg"
 background_color: "#111111"
 merch_images:
