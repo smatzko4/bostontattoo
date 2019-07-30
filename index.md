@@ -1,6 +1,5 @@
 ---
-title: "Home" 
-page_name: ""
+title: Home
 permalink: "/"
 page_name: ''
 main_image: "/uploads/home.jpg"

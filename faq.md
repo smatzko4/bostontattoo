@@ -1,7 +1,7 @@
 ---
-title: "FAQ"
-page_name: "FAQ"
+title: FAQ
 permalink: "/faq.html"
+page_name: FAQ
 main_image: "/uploads/faq.jpg"
 layout: page
 ---

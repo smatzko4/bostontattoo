@@ -1,6 +1,5 @@
 ---
-title: "Medford"
-page_name: "Medford"
+title: Medford
 permalink: "/medford.html"
 page_name: Medford
 main_image: "/uploads/medford%20shop%20header.jpg"

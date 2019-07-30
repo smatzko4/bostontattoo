@@ -1,6 +1,5 @@
 ---
-title: "Release"
-page_name: "Release"
+title: Release
 permalink: "/release.html"
 page_name: Release
 layout: release
