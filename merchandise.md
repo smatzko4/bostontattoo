@@ -1,5 +1,6 @@
 ---
-title: Merchandise
+title: "Boston Tattoo Company: Merchandise"
+page_name: "Merchandise"
 permalink: "/merchandise.html"
 main_image: "/uploads/btc%20group.jpg"
 background_color: "#111111"

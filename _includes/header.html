@@ -1,5 +1,5 @@
 
-{% if page.title != "Home" %}
+{% if page.page_name != "" %}
   <style type="text/css">
     @media all and (min-width: 1050px) {
       #mainImage {
@@ -43,7 +43,7 @@
     </div>
   </header>
 
-  <div id="pageName">{{ page.title | upcase }}</div>
+  <div id="pageName">{{ page.page_name | upcase }}</div>
 
   <div id="locations">
     <a href="/medford.html">Medford</a>
