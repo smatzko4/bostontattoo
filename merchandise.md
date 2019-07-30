@@ -1,6 +1,5 @@
 ---
-title: "Merchandise"
-page_name: "Merchandise"
+title: Merchandise
 permalink: "/merchandise.html"
 page_name: Merchandise
 main_image: "/uploads/btc%20group.jpg"

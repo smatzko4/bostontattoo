@@ -1,6 +1,5 @@
 ---
-title: "Contact"
-page_name: "Contact"
+title: Contact
 permalink: "/contact.html"
 page_name: Contact
 main_image: "/uploads/contact.jpg"
