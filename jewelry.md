@@ -1,5 +1,6 @@
 ---
-title: Jewelry
+title: "Boston Tattoo Company: Jewelry"
+page_name: "Jewelry"
 permalink: "/jewelry.html"
 main_image: "/uploads/jewelry.jpg"
 layout: page

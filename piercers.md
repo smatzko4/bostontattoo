@@ -1,5 +1,6 @@
 ---
-title: Piercers
+title: "Boston Tattoo Company: Piercers"
+page_name: "Piercers"
 permalink: "/piercers.html"
 main_image: "/uploads/piercing.jpg"
 layout: piercers
