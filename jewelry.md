@@ -1,7 +1,7 @@
 ---
-title: "Boston Tattoo Company: Jewelry"
-page_name: "Jewelry"
+title: 'Boston Tattoo Company: Jewelry'
 permalink: "/jewelry.html"
+page_name: Jewelry
 main_image: "/uploads/jewelry.jpg"
 layout: page
 ---
