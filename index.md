@@ -2,6 +2,7 @@
 title: "Home" 
 page_name: ""
 permalink: "/"
+page_name: ''
 main_image: "/uploads/home.jpg"
 announcement_image: "/uploads/Postcard_gal.jpg"
 video_file: "/uploads/showreel.mp4"
