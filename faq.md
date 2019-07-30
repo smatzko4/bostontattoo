@@ -1,5 +1,5 @@
 ---
-title: "Boston Tattoo Company: FAQ"
+title: "FAQ"
 page_name: "FAQ"
 permalink: "/faq.html"
 main_image: "/uploads/faq.jpg"

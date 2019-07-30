@@ -1,5 +1,5 @@
 ---
-title: "Boston Tattoo Company: Apply"
+title: "Apply"
 page_name: "Apply"
 permalink: "/apply.html"
 main_image: "/uploads/apply.jpg"

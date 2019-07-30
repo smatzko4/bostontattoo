@@ -1,5 +1,5 @@
 ---
-title: "Boston Tattoo Company: Release"
+title: "Release"
 page_name: "Release"
 permalink: "/release.html"
 layout: release

@@ -1,5 +1,5 @@
 ---
-title: "Boston Tattoo Company: Contact"
+title: "Contact"
 page_name: "Contact"
 permalink: "/contact.html"
 main_image: "/uploads/contact.jpg"

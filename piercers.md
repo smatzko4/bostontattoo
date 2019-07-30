@@ -1,5 +1,5 @@
 ---
-title: "Boston Tattoo Company: Piercers"
+title: "Piercers"
 page_name: "Piercers"
 permalink: "/piercers.html"
 main_image: "/uploads/piercing.jpg"
