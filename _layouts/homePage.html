@@ -7,6 +7,14 @@ layout: default
 
     <h1 style="text-align: center;">New England’s Premier Tattoo Studio</h1>
 
+    {% unless page.video_file == "" %}
+      <div id="videoContainer">
+        <video poster="/uploads/btcVidThumbnail.png" controls>
+          <source src="{{ page.video_file }}" type="video/mp4">
+        </video>
+      </div>
+    {% endunless %}
+
     {{ content }}
 
     <h2 id="social" class="mediaHeader">Instagram:</h2>
