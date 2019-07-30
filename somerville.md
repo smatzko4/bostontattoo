@@ -1,7 +1,7 @@
 ---
-title: "Somerville"
-page_name: "Somerville" 
+title: Somerville
 permalink: "/somerville.html"
+page_name: Somerville
 main_image: "/uploads/somerville.jpg"
 map_url: https://www.google.com/maps/embed/v1/place?q=260%20Elm%20Street%2C%20%23102%20Somerville%2C%20MA%2002144&key=AIzaSyByok5-JLiYZzpwESlPJ7kcTqJeu4aT1TY
 layout: location

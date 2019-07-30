@@ -1,7 +1,7 @@
 ---
-title: "Jewelry"
-page_name: "Jewelry"
+title: Jewelry
 permalink: "/jewelry.html"
+page_name: Jewelry
 main_image: "/uploads/jewelry.jpg"
 layout: page
 ---
