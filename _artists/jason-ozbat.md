@@ -1,11 +1,12 @@
 ---
 title: Jason Ozbat
-date: 2019-06-17 00:36:00 Z
+date: 2019-06-16 20:36:00 -04:00
 categories:
 - cambridge
 position: 13
 main_image: "/uploads/jasonozbat.jpg"
 profile_image: "/uploads/oz.png"
+order: 7
 work_images:
 - "/uploads/blackandgreyrealism horrortattoo boston.jpg"
 - "/uploads/bostontattoos grimreapertattoo.jpg"
