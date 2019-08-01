@@ -1,11 +1,12 @@
 ---
 title: Carl Grace
-date: 2019-07-24 21:58:00 Z
+date: 2019-07-24 17:58:00 -04:00
 categories:
 - cambridge
 position: 4
 main_image: "/uploads/CARLGRACE-36caf1.jpg"
 profile_image: "/uploads/carl.png"
+order: 4
 ---
 
 Originally from the greater Los Angeles area, Carl Grace began his journey in 1998 with a tattoo apprenticeship under Boston John at Skin Grafix in Arcadia, California. Looking at Carl’s artistic talent, it is easy to assume his skill would translate seamlessly into tattoos. After bouncing around the West Coast party scene, Carl pledged to live a sober lifestyle on November 21, 2004 and went head first turning art into a career. Carl then moved to Tucson, Arizona to begin working with fellow tattoo artist Josh Hagen at Sacred Art Tattoo. It was working at Sacred Art Tattoo with Josh where these two artists really began to come into their own as professionals.
