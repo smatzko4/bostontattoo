@@ -1,11 +1,12 @@
 ---
 title: Dani Williams
-date: 2019-06-17 00:36:00 Z
+date: 2019-06-16 20:36:00 -04:00
 categories:
 - somerville
 position: 7
 main_image: "/uploads/daniwilliams.jpg"
 profile_image: "/uploads/dani.png"
+order: 2
 work_images:
 - "/uploads/armtattoos colortattoo newschooltattoo.jpg"
 - "/uploads/blackandgreytattoo armtattoo bostontattoo.jpg"
