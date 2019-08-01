@@ -1,11 +1,12 @@
 ---
 title: Nick Bratkon
-date: 2019-06-17 00:36:00 Z
+date: 2019-06-16 20:36:00 -04:00
 categories:
 - somerville
 position: 20
 main_image: "/uploads/nickbratkon.jpg"
 profile_image: "/uploads/nick.png"
+order: 3
 work_images:
 - "/uploads/americantattoo bostontattoocompany sparrowtattoo.jpg"
 - "/uploads/blackandgreytattoos bostontattoo.jpg"
