@@ -6,7 +6,7 @@ categories:
 position: 19
 main_image: "/uploads/Gio)MIKEOREGAN-5d0a2b.jpg"
 profile_image: "/uploads/gio.png"
-order: 9
+order: 4
 work_images:
 - "/uploads/blackandgray skulltattoo bostontattoo gio.jpg"
 - "/uploads/bostontattoocompany rosetattoo realism gio.jpg"
