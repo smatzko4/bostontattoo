@@ -2,7 +2,7 @@
 title: Jewelry
 permalink: "/jewelry.html"
 page_name: Jewelry
-main_image: "/uploads/jewelry.jpg"
+main_image: "/uploads/20190201_170624%20(1).jpg"
 layout: page
 ---
 
