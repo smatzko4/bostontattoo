@@ -6,6 +6,7 @@ categories:
 position: 29
 main_image: "/uploads/arranlane-3dec80.jpg"
 profile_image: "/uploads/aaryn.png"
+order: 6
 work_images:
 - "/uploads/color%20skull%20tattoo%20boston%20skull%20art%20newschool%20tattoo.jpg"
 - "/uploads/color%20tattoo%20neo%20trad%20tattoo%20leg%20tattoo.jpg"
