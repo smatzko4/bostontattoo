@@ -6,6 +6,7 @@ categories:
 position: 23
 main_image: "/uploads/randylipscomb.jpg"
 profile_image: "/uploads/randy.png"
+order: 9
 work_images:
 - "/uploads/blackandgrey realism bostontattoo randy.PNG"
 - "/uploads/blackandgreytattoos bostontattoo realism randy.jpeg"
