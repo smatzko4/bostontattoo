@@ -1,11 +1,12 @@
 ---
 title: Jimmy Snaz
-date: 2019-06-17 00:36:00 Z
+date: 2019-06-16 20:36:00 -04:00
 categories:
 - cambridge
 position: 15
 main_image: "/uploads/jimmysnaz.jpg"
 profile_image: "/uploads/jimmy.png"
+order: 3
 work_images:
 - "/uploads/americantraditonaltattoo bostontattoo inkmaster.jpeg"
 - "/uploads/chesttattoos eagletattoo american traditional.jpeg"
