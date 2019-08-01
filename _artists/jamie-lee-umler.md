@@ -1,11 +1,12 @@
 ---
 title: Jamie Lee Ulmer
-date: 2019-06-17 00:36:00 Z
+date: 2019-06-16 20:36:00 -04:00
 categories:
 - somerville
 position: 12
 main_image: "/uploads/jamieleeulmer.jpg"
 profile_image: "/uploads/jamielee.png"
+order: 9
 work_images:
 - "/uploads/backpiece blackandgrey realism bostontattoo eagletattoos.JPG"
 - "/uploads/blackandgrey bostontattoo realism jamie clippersgip2.jpg"
