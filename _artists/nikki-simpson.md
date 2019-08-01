@@ -1,11 +1,12 @@
 ---
 title: Nikki Simpson
-date: 2019-06-17 00:36:00 Z
+date: 2019-06-16 20:36:00 -04:00
 categories:
 - somerville
 position: 21
 main_image: "/uploads/nikkisimpson.jpg"
 profile_image: "/uploads/nikki.png"
+order: 8
 work_images:
 - "/uploads/blackandgrey realism nikki bostontattoo.JPG"
 - "/uploads/colorfultattoo spacetattoo bostontattoo nikki.JPG"
