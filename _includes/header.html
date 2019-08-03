@@ -43,7 +43,43 @@
     </div>
   </header>
 
-  <div id="pageName">{{ page.page_name | upcase }}</div>
+  {% if page.page_name != "" %}
+    <div id="pageName">{{ page.page_name | upcase }}</div>
+  {% else %}
+    {% unless page.video_file == "" %}
+      <style type="text/css">
+        #locations {
+          bottom: -45px;
+          background-color: #111;
+          z-index: 10;
+        }
+
+        #info-container {
+          margin-top: 40px;
+        }
+        
+        @media all and (max-width: 1050px) {
+          video {
+            position: relative;
+            height: 80%;
+          }
+
+          #locations {
+            bottom: 0px;
+          }
+
+          #info-container {
+            margin-top: 0px;
+          }
+        }
+      </style>
+      <div id="videoContainer">
+        <video poster="{{ page['main_image'] }}" controls>
+          <source src="{{ page.video_file }}" type="video/mp4">
+        </video>
+      </div>
+    {% endunless %}
+  {% endif %}
 
   <div id="locations">
     <a href="/medford.html">Medford</a>

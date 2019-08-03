@@ -93,6 +93,7 @@ header a:hover {
   cursor: pointer;
   display: inline-block;
   text-decoration: none;
+  width: 110px;
 }
 
 #locations a:hover {
@@ -133,6 +134,7 @@ header a:hover {
     margin-bottom: 0px;
     text-align: center;
     font-size: 14px;
+    padding: 15px 5px 12px 5px;
   }
 
   #headerOuter {
@@ -181,6 +183,7 @@ header a:hover {
     padding: 5px;
     display: block;
     margin: 14px auto;
+    width: auto;
     max-width: 728px;
   }
 }

@@ -87,16 +87,17 @@ a {
   width: 100%;
 }
 
+video::-webkit-media-controls {
+  display:none !important;
+}
+
 video {
   display: block;
   margin: 0px auto;
   outline: none;
+  height: 100%;
   width: 100%;
   object-fit: cover;
-}
-
-#videoContainer {
-  margin: 40px auto 30px auto;
-  border: 2px solid #111;
-  max-width: 500px;
+  position: absolute;
+  top: 0px;
 }
