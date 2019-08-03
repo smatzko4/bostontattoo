@@ -1,6 +1,6 @@
 ---
 title: Brian Moeller
-date: 2019-06-17 00:36:00 Z
+date: 2019-06-16 20:36:00 -04:00
 main_image: "/uploads/brianmoeller.jpg"
 profile_image: "/uploads/brian.png"
 order: 1
