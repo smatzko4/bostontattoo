@@ -2,7 +2,7 @@
 title: Joe Juliano
 date: 2019-06-16 20:36:00 -04:00
 main_image: "/uploads/joejuliano.jpg"
-profile_image: "/uploads/joe%20juliano%20.jpg"
+profile_image: "/uploads/DSC03672.JPEG"
 order: 1
 work_images:
 - "/uploads/Gold and London Blue Topaz.JPG"

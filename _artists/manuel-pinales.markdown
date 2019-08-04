@@ -19,3 +19,4 @@ work_images:
 - "/uploads/IMG_0495.JPG"
 ---
 
+I am very versatile artist, i think i am still developing my own style. I draw my influences from a wide variety of artists, from realism artists to traditional japanese. My favorite styles are japanese and black and grey realism. I love the look of a well thought out sleeve or body suit.I have been tattooing professionally since 2013 and I would like to do more nerd culture and anime tattoos because i love comics video games and anime.
