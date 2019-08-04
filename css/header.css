@@ -57,7 +57,7 @@ header #logo {
 }
 
 header a {
-  padding: 16px 20px;
+  padding: 16px 16px;
   cursor: pointer;
   transition: color 300ms;
   text-decoration: none;
@@ -110,7 +110,7 @@ header a:hover {
   height: 20px;
   position: absolute;
   right: 40px;
-  bottom: 70px;
+  bottom: 140px;
   cursor: pointer;
   outline: none;
   transition: border-color 300ms;

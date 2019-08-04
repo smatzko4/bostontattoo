@@ -87,10 +87,6 @@ a {
   width: 100%;
 }
 
-video::-webkit-media-controls {
-  display:none !important;
-}
-
 video {
   display: block;
   margin: 0px auto;
