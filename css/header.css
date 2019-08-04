@@ -41,7 +41,7 @@ header {
   position: relative;
   left: 50%;
   width: 900px;
-  margin-left: -525px;
+  margin-left: -557px;
 }
 
 #headerRow {
@@ -64,6 +64,7 @@ header a {
   color: inherit;
   display: block;
   align-self: center;
+  white-space: nowrap;
 }
 
 header a:hover {
@@ -122,7 +123,7 @@ header a:hover {
 
 /* ---------------------------------------------- */
 
-@media all and (max-width: 1050px) {
+@media all and (max-width: 1100px) {
   #mainImage {
     min-height: 0px;
   }
