@@ -7,7 +7,11 @@ map_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.897880877972
 layout: location
 ---
 
-*hours*: Monday - Sunday: 11am - 9pm, Sunday: 12 pm - 5 pm  
-*phone*: (617)-714-4515  
-*public* transit: train: Red Line – Central Square, bus: 1  
-*parking*: off-street parking available  
+**HOURS**:  
+Monday - Sunday: 11am - 9pm, Sunday: 12 pm - 5 pm  
+**PHONE**:  
+(617)-714-4515  
+**PUBLIC TRANSIT**:  
+train: Red Line – Central Square, bus: 1  
+**PARKING**:  
+off-street parking available  

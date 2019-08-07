@@ -7,7 +7,11 @@ map_url: https://www.google.com/maps/embed/v1/place?q=567%20Fellsway%20Medford%2
 layout: location
 ---
 
-*hours*: Monday - Sunday: 11am - 9pm, Sunday: 12 pm - 5 pm  
-*phone*: (781)-393-8282  
-*public* transit: train: Orange Line – Wellington Circle, bus: 89, 88, 94  
-*parking*: off-street parking available
+**HOURS**:  
+Monday - Sunday: 11am - 9pm, Sunday: 12 pm - 5 pm  
+**PHONE**:  
+(781)-393-8282  
+**PUBLIC TRANSIT**:  
+train: Orange Line – Wellington Circle, bus: 89, 88, 94  
+**PARKING**:  
+off-street parking available

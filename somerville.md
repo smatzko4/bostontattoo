@@ -7,7 +7,11 @@ map_url: https://www.google.com/maps/embed/v1/place?q=260%20Elm%20Street%2C%20%2
 layout: location
 ---
 
-*hours*: Monday - Sunday: 11am - 9pm, Sunday: 12 pm - 5 pm  
-*phone*: (617)-625-8282  
-*public* transit: train: Red Line - Davis Square, bus: 90, 92  
-*parking*: both metered and public parking are available  
+**HOURS**:  
+Monday - Sunday: 11am - 9pm, Sunday: 12 pm - 5 pm  
+**PHONE**:  
+(617)-625-8282  
+**PUBLIC TRANSIT**:  
+train: Red Line - Davis Square, bus: 90, 92  
+**PARKING**:  
+both metered and public parking are available  
