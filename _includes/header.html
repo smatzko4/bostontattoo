@@ -1,5 +1,5 @@
 
-{% if page.page_name != "" %}
+{% if page.page_name and page.page_name != "" %}
   <style type="text/css">
     @media all and (min-width: 1050px) {
       #mainImage {
@@ -44,7 +44,7 @@
     </div>
   </header>
 
-  {% if page.page_name != "" %}
+  {% if page.page_name and page.page_name != "" %}
     <div id="pageName">{{ page.page_name | upcase }}</div>
   {% else %}
     {% unless page.video_file == "" %}
