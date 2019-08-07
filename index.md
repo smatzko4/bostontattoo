@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-page_name: ''
+page_name: 
 main_image: "/uploads/home.jpg"
 announcement_image: "/uploads/Postcard_gal.jpg"
 video_file: "/uploads/showreel.mp4"
@@ -21,5 +21,3 @@ More Info:
 - Consultations are free
 - Fully licensed and insured.
 - Cash & all major credit cards accepted (sorry, no checks or money orders)
-
-**See also:** [O'Reilly House](http://oreillyhouse.com/)
