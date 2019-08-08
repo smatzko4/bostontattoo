@@ -21,3 +21,7 @@ work_images:
 Field name: 
 ---
 
+Tattooing out of the Somerville location of Boston Tattoo Company; Joe Gettler specializes on his own brand of illustrative tattoos heavily informed by Japanese as well as American traditional styles. Joe has a background of Fantasy, Sci-fi, and Heavy Metal illustration creating album artwork, board game, and t-shirt designs as well as having his art being included in multiple books.  
+	Joe loves tattooing anything from mythological warriors and beasts to elegant but powerful art involving flowers or animals. At the end of the day he just wants the best version of the best idea for the specific client involved. Starting his career in February 2018; Joe focuses on large expansive tattoo work as well as one-shot pieces finished in a single session.
+	Previous to tattooing Joe was a guitar teacher and graduated from Berklee College of Music with a Bachelor’s Degree in Guitar Performance. 
+	Appointments and consultations can be scheduled by emailing Jgettlershred@gmail.com or calling the shop
