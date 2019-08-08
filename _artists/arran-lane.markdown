@@ -4,7 +4,7 @@ date: 2019-07-24 18:06:00 -04:00
 categories:
 - somerville
 position: 29
-main_image: "/uploads/arranlane-3dec80.jpg"
+main_image: "/uploads/aaran-71c042.jpg"
 profile_image: "/uploads/aaryn.png"
 order: 6
 work_images:
