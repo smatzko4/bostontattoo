@@ -1,6 +1,6 @@
 ---
 title: East Estrada
-date: 2019-06-17 00:36:00 Z
+date: 2019-06-16 20:36:00 -04:00
 categories:
 - medford
 position: 8
@@ -20,4 +20,4 @@ work_images:
 layout: profile
 ---
 
-East Estrada started tattooing in 2011, and continues to challenge himself in all styles of tattooing. He is most versed in script lettering, new school color, and black and gray. he is ready and able to tackle any project that comes his way; he’s got a soft spot for watercolor. He will take any idea you have and work his absolute best to put something custom on you to enjoy for the rest of your life.
+East Estrada began his tattoo career in 2011 drawing inspiration from video games as comic books. Since then his focus has been heavily in color tattoos, bringing to life cartoons and Japanese anime designs with vibrant colors and crisp line work. He carries his own flavor of neotraditional and new school tattooing to make your tattoos truly unique.
