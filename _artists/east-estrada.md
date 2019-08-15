@@ -20,4 +20,4 @@ work_images:
 layout: profile
 ---
 
-East Estrada began his tattoo career in 2011 drawing inspiration from video games as comic books. Since then his focus has been heavily in color tattoos, bringing to life cartoons and Japanese anime designs with vibrant colors and crisp line work. He carries his own flavor of neotraditional and new school tattooing to make your tattoos truly unique.
+East Estrada began his tattoo career in 2011 drawing inspiration from video games as comic books. Since then his focus has been heavily in color tattoos, bringing to life cartoons and Japanese anime designs with vibrant colors and crisp line work. He carries his own flavor of -
