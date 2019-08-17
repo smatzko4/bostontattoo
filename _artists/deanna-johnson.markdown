@@ -4,7 +4,7 @@ date: 2019-07-24 18:12:00 -04:00
 categories:
 - medford
 position: 3
-main_image: "/uploads/DEANNAJOHNSON-f73f6e.jpg"
+main_image: "/uploads/DEANNAJOHNSON-bd96d8.jpg"
 profile_image: "/uploads/deanna.png"
 work_images:
 - "/uploads/Deanna1-316085.jpg"
@@ -19,4 +19,4 @@ Deanna loves tattooing in a traditional style, whether its black work or color. 
 
 Before becoming a tattoo artist she graduated with a Bachelor's degree in Fine Art from the School of the Museum of Fine Arts, and later became a licensed teacher in the state of Massachusetts.
 
-Deanna started her tattooing career with The Boston Tattoo Company and is grateful every day that she gets to work with and continue to learn from all the wonderful artists around her.
+Deanna started her tattooing career with The Boston Tattoo Company and is grateful every day that she gets to work with and continue to learn from all the wonderful artists around her. 
