@@ -9,16 +9,16 @@ profile_image: "/uploads/irina.png"
 order: 6
 work_images:
 - "/uploads/blackandgray bostontattoo cattattoo irina.jpeg"
-- "/uploads/blackandgreytattoo bostontattoocompany irina.jpg"
+- "/uploads/IMG_0267.jpg"
 - "/uploads/blackandgreytattoos statuetattoo bostontattoo irina.jpg"
-- "/uploads/charliebrowntattoo blackandgray cartoontattoo bostontattoo irina.png"
-- "/uploads/hockeytattoo blackandgreytattoo bostontattoo irina.jpg"
+- "/uploads/IMG_3289.jpeg"
+- "/uploads/IMG_0100.jpeg"
 - "/uploads/mermaidtattoo bostontattoo irina blackwork blackandgray.JPG"
-- "/uploads/realistictattoo bostontattoocompany bostontattoo blackandgray irina.jpg"
+- "/uploads/IMG_0214.jpeg"
 - "/uploads/realistictattoo bostontattoo irina portatittattoo.jpeg"
-- "/uploads/skulltattoo blackandgreytattoos bostontattoocompany irina.jpg"
+- "/uploads/IMG_3326-a7d469.jpeg"
 - "/uploads/tattoos bostontattoos cambridgetattoos blackandgrey irina.jpeg"
-- "/uploads/traditionaltatttoos colortattoos animaltattoos bostontattoo irina.jpg"
+- "/uploads/IMG_0245-120fe8.jpg"
 layout: profile
 ---
 
