@@ -12,7 +12,7 @@ work_images:
 - "/uploads/IMG_0267.jpg"
 - "/uploads/blackandgreytattoos statuetattoo bostontattoo irina.jpg"
 - "/uploads/IMG_3289.jpeg"
-- "/uploads/IMG_0100.jpeg"
+- "/uploads/Screen%20Shot%202019-08-23%20at%201.58.06%20PM.png"
 - "/uploads/mermaidtattoo bostontattoo irina blackwork blackandgray.JPG"
 - "/uploads/IMG_0214.jpeg"
 - "/uploads/realistictattoo bostontattoo irina portatittattoo.jpeg"
