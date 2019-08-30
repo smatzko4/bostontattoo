@@ -20,3 +20,4 @@ work_images:
 layout: profile
 ---
 
+My name is Mike ORegan i apprenticed here at Boston Tattoo I enjoy doing any form of realism or illustrative realism and fine line tattooing. My favorite subject matter is the human face and animals. 
