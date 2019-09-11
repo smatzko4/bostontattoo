@@ -18,6 +18,15 @@ work_images:
 - "/uploads/handtattoo bostontattoo realism kit blackandgray.jpg"
 - "/uploads/handtattoo bostontattoos horrortattoo kit blackandgray.jpeg"
 - "/uploads/horrorportait halfsleeve bostontattoo blackandgrey.jpeg"
+- "/uploads/image_123986672.JPG"
+- "/uploads/image_6483441%20(1).JPG"
+- "/uploads/image_67202817.JPG"
+- "/uploads/image_67145985.JPG"
+- "/uploads/image_67111425.JPG"
+- "/uploads/image_67111425-f76251.JPG"
+- "/uploads/image_67130625.JPG"
+- "/uploads/image_6483441.JPG"
+- "/uploads/image_67145729.JPG"
 layout: profile
 ---
 
