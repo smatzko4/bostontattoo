@@ -17,6 +17,13 @@ work_images:
 - "/uploads/bobafett tattoo bostontattoo starwarstattoos east.JPG"
 - "/uploads/bostonbruins bostontattoocompany easttattoos .JPG"
 - "/uploads/bostontattoocompany colortattoos traditional east.JPG"
+- "/uploads/East_0013.jpg"
+- "/uploads/East_IMG_0002.jpg"
+- "/uploads/East_IMG_0003.jpg"
+- "/uploads/East_IMG_0005.jpg"
+- "/uploads/East.jpg"
+- "/uploads/East1.jpg"
+- "/uploads/East12.jpg"
 layout: profile
 ---
 
