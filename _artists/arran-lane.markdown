@@ -17,5 +17,18 @@ work_images:
 - "/uploads/neotraditional%20skull%20color%20tattoo%20half%20sleeve%20tattoo%20boston.jpg"
 - "/uploads/skater%20tattoo%20colortattoo%20newschool.jpg"
 - "/uploads/skatertattoo%20neotrad%20tattoo%20letteringtattoo.jpg"
+- "/uploads/ARRANV.jpg"
+- "/uploads/ARRANV1.jpg"
+- "/uploads/ARRANV2.jpg"
+- "/uploads/ARRANV3.jpg"
+- "/uploads/ARRANV4.jpg"
+- "/uploads/ARRANV5.jpg"
+- "/uploads/ARRANV6.jpg"
+- "/uploads/ARRANV7.jpg"
+- "/uploads/ARRANV8.jpg"
+- "/uploads/ARRANV9.jpg"
+- "/uploads/ARRANV10.jpg"
+- "/uploads/ARRANV11.jpg"
+- "/uploads/ARRANV12.jpg"
 ---
 
