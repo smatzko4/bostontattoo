@@ -15,6 +15,9 @@ work_images:
 - "/uploads/forwardhelixwithbeadedwhitegoldtriangles.JPG"
 - "/uploads/freashtragusfeturingyellowgold.jpg"
 - "/uploads/freshflatpiercingwithbeadedcluster.JPG"
+- "/uploads/Akio%20_C51CEE27-A847-4146-9EDE-6AC3BE3C8875.jpg"
+- "/uploads/Akio_44A3B59F-7A8A-4F7D-8608-3002B6086166.jpg"
+- "/uploads/Akiol_IMG-5711.jpg"
 layout: profile
 ---
 
